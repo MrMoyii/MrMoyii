@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SOLID and GOF Design Patterns**
 
-- 🤝 I’m looking for help with **game projects**
+- 👯 I'm looking to collaborate on **game projects**
 
 - 📫 How to reach me **omarmoyano7w@gmail.com**
 
